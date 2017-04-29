@@ -1,0 +1,70 @@
+<help popup="yes">
+**Firework Battery's made by: xboxxxxd.**
+
+ ##########################
+##    <Help>--<Legend>    ##
+############################
+## "!" = Important.       ##
+## -/ = Command Execution.##
+## Type = Information.    ##
+## Amount = Information.  ##
+## Desc = Information.    ##
+## ## = Readme.           ##
+## [ ] = Notification.    ##
+## " " = Real Name.       ##
+ ##########################
+
+To Open/Close the Fireworks panel, Press F6. [*WIP*]
+
+
+"!"All Fireworks are now Enchanted. (Flare Battery has 2x as much as before)"!"
+"!"This means all firework types are now Random set to a certain speed."!"
+"!"and Every firework speed is in Sync aswel."!"
+
+ ##########################################################
+##These commands trigger a Battery, Here's a list of them:##
+ ##########################################################
+
+- /battery
+Type: 29/30/32 Inch Shell's.
+Amount: 5Min, 15Max.
+Desc: These Shells go really high, and the radius is big.
+
+- /sbattery
+Type: FlashLight.
+Amount: 1Min, 1Max.
+Desc: This Flashlight is based of a Bright Streetlight called "BrightLight".
+
+- /cbattery
+Type: Cracking Battery.
+Amount: 15Min, 30Max.
+Desc: This Cracking Battery looks fancy, also they sound crackly..
+
+- /dbattery
+Type: Dragon Battle.
+Amount: 20Min, 30Max.
+Desc: This Battery called Dragon Battle is based of a Battery called "Battery Dragon",
+It's Low, but it's Explosion Radius is decent.
+
+- /dbbattery
+Type: Dragon Battle XL.
+Amount: 15Min, 30Max.
+Desc: The same as Dragon Battle, Exept Without Crackling's, and with Decent Size of Color's.
+
+- /vbattery
+Type: Fountain.
+Amount: 1Min, 1Max.
+Desc: This Fountain is called "Ocean Blue - Vulcano", when Triggered, it first it go's low, then it go's higher.
+
+- /fbattery
+Type: Flare Battery.
+Amount: 135Min, 150Max.
+Desc: This is a Flare Battleship, It Shoot's Balls randomly out of the Box, based on a Battery called "BattleShip".
+
+- /lbattery
+Type: Fountain.
+Amount: 1Min, 1Max.
+Desc: This Fountain is called "Lava Spitter - Vulcano", when triggered, it first it go's low, then it go's higher.
+
+**Firework Battery's made by: xboxxxxd.**
+</help>
