@@ -1,0 +1,7 @@
+<meta>
+    <info author="Sasu" version="2.0.1" type="script" name="Music searcher" />
+		
+		<script src="utils.lua" type="client"/>
+		<script src="server.lua" type="server" />
+		<script src="client.lua" type="client" />
+</meta>

@@ -1,0 +1,6 @@
+EDITOR_TITLE    | Editor de archivos
+EDITOR_SAVE     | GUARDAR
+FILE_ERROR      | No se encontro archivo.
+FILE_OPEN       | a abierto el archivo:
+FILE_SAVE_ERROR | No se encontro el archivo abierto por
+FILE_SAVE       | Archivo guardado satisfactoriamente

@@ -1,0 +1,6 @@
+EDITOR_TITLE    | File Editor
+EDITOR_SAVE     | SAVE
+FILE_ERROR      | Can't find the file.
+FILE_OPEN       | has open the file:
+FILE_SAVE_ERROR | Can't find the file opened by:
+FILE_SAVE       | File saved correctly.
