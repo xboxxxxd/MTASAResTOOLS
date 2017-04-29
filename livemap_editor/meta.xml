@@ -1,0 +1,4 @@
+<meta>
+	<info name="In-Game map editor" author="OffRoader23" version="1.4" type="misc" />
+	<script src="offedit.lua"/>
+</meta>

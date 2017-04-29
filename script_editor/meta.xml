@@ -1,0 +1,11 @@
+<meta>
+    <info name="In-game script editor" author="Castillo" version="2.5" type="script" />
+    <!-- Client side -->
+    <script src="client_side.lua" type="client" />
+    <!-- Server side -->
+    <script src="server_side.lua" type="server" />
+    <!-- Settings -->
+    <settings>
+        <setting name="*restart_resource" value="true" />
+    </settings>
+</meta>

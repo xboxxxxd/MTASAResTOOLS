@@ -1,0 +1,8 @@
+<meta>
+	<info author="Mart" version="1.0.0" type="script"/>
+
+	<script src="server.lua" type="server"/>
+
+	<export function="updateDatabase" type="server" http="true"/>
+	<export function="getUpdatesAvailable" type="server" http="true"/>
+</meta>

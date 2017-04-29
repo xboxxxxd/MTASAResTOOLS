@@ -1,0 +1,4 @@
+<config>
+    <controlPanel></controlPanel>
+    <general allowAuthorResourceAccess="true"></general>
+</config>
